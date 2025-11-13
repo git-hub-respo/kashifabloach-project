@@ -1,0 +1,35 @@
+﻿[
+    {
+        "_id":  "6912e9f0607ae76b15a6f034",
+        "name":  "Pastel Silk Dress",
+        "price":  79.99,
+        "description":  "Lightweight silk dress in pastel tones.",
+        "image":  "",
+        "category":  "Dresses",
+        "__v":  0,
+        "createdAt":  "2025-11-11T07:46:56.466Z",
+        "updatedAt":  "2025-11-11T07:46:56.466Z"
+    },
+    {
+        "_id":  "6912e9f0607ae76b15a6f035",
+        "name":  "Classic Beige Trench",
+        "price":  129.99,
+        "description":  "Timeless trench coat for every season.",
+        "image":  "",
+        "category":  "Coats",
+        "__v":  0,
+        "createdAt":  "2025-11-11T07:46:56.468Z",
+        "updatedAt":  "2025-11-11T07:46:56.468Z"
+    },
+    {
+        "_id":  "6912e9f0607ae76b15a6f036",
+        "name":  "Linen Summer Shirt",
+        "price":  39.99,
+        "description":  "Breathable linen shirt.",
+        "image":  "",
+        "category":  "Tops",
+        "__v":  0,
+        "createdAt":  "2025-11-11T07:46:56.468Z",
+        "updatedAt":  "2025-11-11T07:46:56.468Z"
+    }
+]
